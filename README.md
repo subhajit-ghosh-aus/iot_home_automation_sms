@@ -35,4 +35,5 @@ The code was compiled using Keil uVision 4 on Windows and yet to be tested on ne
 You might require to change the headers if you want to compile it on Linux or other environment.
 
 # Youtube Video:
-https://youtu.be/y_ucW4E6sUI
+
+[![multitouchtest](https://img.youtube.com/vi/TyvByuKKVMI/0.jpg)](https://youtu.be/y_ucW4E6sUI)
