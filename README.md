@@ -1,4 +1,4 @@
-# Remote_SMS_Home_Automation
+# Home Automation using SMS
 
 This is a home automation project in which you can switch ON or switch OFF eight devices using SMS. You also 
 receive an SMS confirmation of the device state after each successful switching.
