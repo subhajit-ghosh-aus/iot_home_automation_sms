@@ -36,4 +36,4 @@ You might require to change the headers if you want to compile it on Linux or ot
 
 # Youtube Video:
 
-[![multitouchtest](https://img.youtube.com/vi/TyvByuKKVMI/0.jpg)](https://youtu.be/y_ucW4E6sUI)
+[![IoT Home Automation](https://img.youtube.com/vi/y_ucW4E6sUI/0.jpg)](https://youtu.be/y_ucW4E6sUI)
